@@ -3,17 +3,26 @@ A simple and interactive To-Do List mobile application built using React Native.
 
 ## Features
 ✅ Add new tasks to your list.
+
 📝 Edit existing tasks with ease.
+
 ❌ Delete tasks once completed or unnecessary.
+
 📄 Clean and responsive UI using FlatList and custom styling.
+
 🧠 Uses useState hooks for state management.
+
 🎨 Icons integrated using react-native-vector-icons.
 
 ## Technologies Used
 React Native
+
 JavaScript (ES6+)
+
 react-native-vector-icons
+
 React Hooks (useState)
+
 FlatList for efficient list rendering
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
